@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/minsunghong/SwiftUI_Tutorial/Landmarks/Landmarks/Landmark.swift">
+   </FileRef>
+   <FileRef
+      location = "group:landmarkData.json">
+   </FileRef>
+   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>
